@@ -1,6 +1,6 @@
 # Hi, I'm Vimal Raj D 
 
-**Software Developer (AI/ML & DevOps) | LLMs & RAG-Based Chatbots | Python Backend Development | AWS, Linux, Docker & CI/CD Pipelines**
+**Software Developer (AI/ML & DevOps) | LLMs & RAG-Based Chatbots | Python Backend Development | AWS, Linux, Docker & CI/CD Pipelines**.
 
 Software Engineer with 3 years of experience bridging the gap between Artificial Intelligence and Cloud Infrastructure Automation (DevOps). Experienced in building production-ready AI microservices, multi-agent RAG architectures, and computer vision pipelines using Python and FastAPI, while managing end-to-end AWS infrastructure, Kubernetes clusters, and automated GitOps CI/CD pipelines across enterprise applications.
 
