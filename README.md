@@ -20,7 +20,7 @@ Passionate about solving complex system limits, eliminating expensive third-part
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-###  LLMs, GenAI & RAG
+###  LLMs, GenAI
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -31,6 +31,15 @@ Passionate about solving complex system limits, eliminating expensive third-part
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+
+###  RAG, Embeddings & Search
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6C3483?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-2563EB?style=for-the-badge)
+![Similarity Search](https://img.shields.io/badge/Similarity_Search-0F766E?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-B45309?style=for-the-badge)
+![Reranking](https://img.shields.io/badge/Reranking-475569?style=for-the-badge)
 
 ###  Python & Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
