@@ -12,13 +12,20 @@ Passionate about solving complex system limits, eliminating expensive third-part
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC292B?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-17CF73?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain & LangGraph](https://img.shields.io/badge/LangChain_%26_LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge&logo=ai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![InsightFace](https://img.shields.io/badge/InsightFace-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2A623D?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow (PIL)](https://img.shields.io/badge/Pillow-3A7FA8?style=for-the-badge&logo=python&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005B94?style=for-the-badge&logo=onnx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(pgvector)-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,8 +45,6 @@ Passionate about solving complex system limits, eliminating expensive third-part
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 ###  Experience Snapshot
 
