@@ -13,34 +13,44 @@ Passionate about solving complex system limits, eliminating expensive third-part
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain_&_LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain & LangGraph](https://img.shields.io/badge/LangChain_%26_LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![InsightFace](https://img.shields.io/badge/InsightFace-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2A623D?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005B94?style=for-the-badge&logo=onnx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(pgvector)-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Harbor](https://img.shields.io/badge/Harbor-60B5CC?style=for-the-badge&logo=harbor&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1A1A1A?style=for-the-badge&logo=security&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ###  Experience Snapshot
 
-- **3+ Years** in Python Backend, AI Engineering & Cloud DevOps Automation
-- **Generative AI & Multi-Agent Systems:** LangGraph, LangChain, RAG, ReAct Agents, Groq (Llama 3), Google Gemini, Ollama
+- **3 Years** in Python Backend, AI Engineering & Cloud DevOps Automation
+- **Generative AI & LLMs:** LangGraph, LangChain, RAG, ReAct Agents, Prompt Engineering, Fine-tuning, LoRA, QLoRA, Groq (Llama 3), Google Gemini, Ollama
+- **NLP, NLU & Optimization:** Natural Language Processing (NLP), Natural Language Understanding (NLU), ONNX Runtime (Model Compression & Quantization)
 - **Computer Vision & OCR:** InsightFace (ArcFace), FAISS, PaddleOCR, OpenCV, Automated RPA Workflows
 - **CI/CD & GitOps Automation:** Jenkins, Docker, Kubernetes, ArgoCD, Ansible, Harbor, SonarQube, Trivy
-- **Cloud & Infrastructure:** AWS (EC2, S3, RDS, ALB, VPC, IAM, Lambda, Route 53), Private Cloud Linux VMs, NGINX
+- **Cloud & Infrastructure:** AWS (EC2, S3, RDS, ALB, VPC, IAM, Lambda, Route 53), Private Cloud Linux VMs, NGINX, SSL/TLS, DNS
 - **Database & Vector Search:** Multi-Tenant PostgreSQL, pgvector, FAISS, Redis Caching, MySQL
 - **Observability & Monitoring:** Prometheus, Grafana, Loki, Node Exporter, cAdvisor, Automated Slack/Email Alerting
-
 ---
 
 ### Featured Enterprise Projects
@@ -93,12 +103,6 @@ Passionate about solving complex system limits, eliminating expensive third-part
 
 ---
 
-###  GitHub Stats
-
-![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimaldg8-eng&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimaldg8-eng&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ###  Connect With Me
 -  **Email:** [vimalrajd51@gmail.com](mailto:vimalrajd51@gmail.com)
