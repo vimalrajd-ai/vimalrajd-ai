@@ -105,7 +105,7 @@ I build real-time Computer Vision APIs, multi-agent RAG chatbots (FastAPI, LangG
 
 ---
 
-### 4. Cloud & DevOps CI/CD Automation (6 Applications)
+### 3. Cloud & DevOps CI/CD Automation (6 Applications)
 - Built centralized **Jenkins Declarative CI/CD pipelines** from scratch for **6 applications** (Tickora microservices and 5 monolithic apps) with automated builds, testing, and workspace cleanup.
 - Integrated **SonarQube Quality Gates**, **Trivy**, and **Hadolint** with **Docker and Harbor** for vulnerability scanning and promoting tested images to production.
 - Automated deployments, health checks, and rollbacks across **5 Linux private cloud VMs** using **Ansible, NGINX, SSL/TLS, and Cloudflare**; ran Python services on **k3s** in production and tested **Kubernetes with ArgoCD (GitOps)**.
